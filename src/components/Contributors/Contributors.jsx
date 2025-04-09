@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from "react";
-import axios from "../../Api/axios";
+import axios from "../../API/axios";
 import styles from "./contributors.module.css";
 import { MdPeople } from "react-icons/md";
 import { AppState } from "../../App";

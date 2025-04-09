@@ -8,7 +8,7 @@ import Home from "./pages/Home/Home";
 import Question from "./pages/Question/Question";
 import HowItWorks from "./pages/HowItWorks/HowItWorks";
 import Answer from "./pages/Answer/Answer";
-import axios from "./Api/axios";
+import axios from "./API/axios";
 
 export const AppState = createContext();
 function App() {

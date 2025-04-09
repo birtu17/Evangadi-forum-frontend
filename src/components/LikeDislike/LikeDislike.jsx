@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useContext } from "react";
 import { SlLike } from "react-icons/sl";
 import { SlDislike } from "react-icons/sl";
-import axios from "../../Api/axios";
+import axios from "../../API/axios";
 import styles from "./likeDislike.module.css";
 const LikeDislike = ({ q, setQuestions }) => {
   const [likedQuestions, setLikedQuestions] = useState([]);

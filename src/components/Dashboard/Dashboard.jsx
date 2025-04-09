@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "./dashboard.module.css";
-import axios from "../../Api/axios";
+import axios from "../../API/axios";
 import { FaQuestionCircle } from "react-icons/fa";
 import { RiQuestionAnswerLine } from "react-icons/ri";
 import { ImUsers } from "react-icons/im";

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import axios from "../../Api/axios";
+import axios from "../../API/axios";
 import { FaRegMessage } from "react-icons/fa6";
 // Create a separate component for each question
 const FetchAnswer = ({ question }) => {
