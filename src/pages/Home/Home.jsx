@@ -17,7 +17,7 @@ import FetchAnswer from "../../components/FetchAnswer/FetchAnswer";
 import Pagination from "../../components/Pagination/Pagination";
 import Dashboard from "../../components/Dashboard/Dashboard";
 import PostedDate from "../../components/PostedDate/PostedDate";
-import LikeDislike from "../../components/LikeDisLike/LikeDisLike";
+import LikeDislike from "../../components/LikeDislike/LikeDislike";
 import Contributors from "../../components/Contributors/Contributors";
 import { IoIosArrowDropup } from "react-icons/io";
 import Chatbot from "../../components/Chatbot/Chatbot";
