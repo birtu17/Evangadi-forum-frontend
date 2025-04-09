@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router";
-import axios from "../../Api/axios";
+import axios from "../../API/axios";
 import styles from "./answer.module.css";
 import { useRef } from "react";
 import { IoPersonCircleOutline } from "react-icons/io5";

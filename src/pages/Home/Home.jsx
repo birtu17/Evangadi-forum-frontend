@@ -10,7 +10,7 @@ import { MdOutlineDateRange } from "react-icons/md";
 import { MdCancel } from "react-icons/md";
 import { CiShoppingTag } from "react-icons/ci";
 import styles from "./home.module.css";
-import axios from "../../Api/axios";
+import axios from "../../API/axios";
 import { AppState } from "../../App";
 import ScaleLoader from "react-spinners/ScaleLoader";
 import FetchAnswer from "../../components/FetchAnswer/FetchAnswer";
